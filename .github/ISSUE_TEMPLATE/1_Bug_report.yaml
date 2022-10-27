@@ -1,7 +1,7 @@
 name: 🐛 Bug Report
 description: Help us improve Kazza!
 title: "[BUG] "
-labels: Bug
+labels: bug
 
 body:
     - type: checkboxes
