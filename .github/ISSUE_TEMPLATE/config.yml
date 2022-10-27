@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-    - name: Ask a question
+    - name: ❓ Ask a question
       url: https://github.com/trufaco/kazza-roadmap/discussions/new
       about: We use GitHub issues for Bugs & New Feature Requests. For support, please use Discussions!
-    - name: Wiki
+    - name: 📚 Wiki
       url: https://github.com/trufaco/kazza-roadmap/wiki
       about: Kazza documentation at your fingertips
