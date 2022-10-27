@@ -7,12 +7,10 @@ body:
     - type: checkboxes
       id: environment
       attributes:
-        label: Environment:
+        label: Environments?
         options:
           - label: Production
           - label: Development
-      validations:
-          required: true
     - type: input
       id: affected-page
       attributes:
