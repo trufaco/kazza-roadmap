@@ -14,4 +14,4 @@ jobs:
         with:
           project-url: https://github.com/orgs/trufaco/projects/2
           github-token: ${{ secrets.DISCUSSION_TO_ISSUE }}
-          labeled: bug
+          labeled: bug, enhancement
