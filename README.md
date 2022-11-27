@@ -1,22 +1,12 @@
 ---
-cover: >-
-  https://user-images.githubusercontent.com/7132783/199223419-d1bd3484-a304-4cba-8013-cf7d61b63e2a.png
-coverY: 0
+description: >-
+  Welcome to Kazza, a state of the art software, built to help you easily manage
+  your advertising media buys and sales.
 ---
 
-# Kazza.com
+# 👋 Welcome
 
-&#x20;&#x20;
-
-<figure><img src="https://user-images.githubusercontent.com/7132783/199223419-d1bd3484-a304-4cba-8013-cf7d61b63e2a.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://user-images.githubusercontent.com/7132783/199230556-e4c46f23-f146-4780-b40f-6dde456f3171.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://user-images.githubusercontent.com/7132783/199229748-e52d7b26-70d3-434e-bdae-5b31c8c17f5d.png" alt=""><figcaption></figcaption></figure>
-
-### 👋 Hi there
-
-Welcome to Trufaco! The home of `Kazza` our in-house software built to help you easily manage your media buys.
+<figure><img src="https://user-images.githubusercontent.com/7132783/199223419-d1bd3484-a304-4cba-8013-cf7d61b63e2a.png" alt=""><figcaption><p>Kazza.com</p></figcaption></figure>
 
 ### ℹ️ What is Kazza??
 
